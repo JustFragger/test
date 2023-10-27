@@ -1,199 +1,198 @@
 {
-  "response_data": [
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC"
-    },
-    {
-      "name": "Bitcoin Cash",
-      "symbol": "BCH"
-    },
-    {
-      "name": "Bitcoin SV",
-      "symbol": "BSV"
-    },
-    {
-      "name": "eCash",
-      "symbol": "XEC"
-    },
-    {
-      "name": "DigiByte",
-      "symbol": "DGB",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "Auroracoin",
-      "symbol": "AUR",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "Globaltoken",
-      "symbol": "GLT",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "Peercoin",
-      "symbol": "PPC"
-    },
-    {
-      "name": "Litecoin Cash",
-      "symbol": "LCC",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "Deutsche eMark",
-      "symbol": "DEM"
-    },
-    {
-      "name": "FreeCash",
-      "symbol": "FCH"
-    },
-    {
-      "name": "Susucoin",
-      "symbol": "SUSU"
-    },
-    {
-      "name": "DeVault",
-      "symbol": "DVT"
-    },
-    {
-      "name": "BitcoinVault",
-      "symbol": "BTCV"
-    },
-    {
-      "name": "FxTC",
-      "symbol": "FXTC",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "BADcoin",
-      "symbol": "BAD",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "Smileycoin",
-      "symbol": "SMLY",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "Veil",
-      "symbol": "VEIL",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "ButKoin",
-      "symbol": "BUTK",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "Bata",
-      "symbol": "BTA",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "BitMark",
-      "symbol": "MARKS",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "MazaCoin",
-      "symbol": "MAZA",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "DigitalCoin",
-      "symbol": "DGC",
-      "algorithm": "SHA-256",
-      "mineable": true
-    },
-    {
-      "name": "StrongHands",
-      "symbol": "SHND"
-    },
-    {
-      "name": "NEXT.Chain",
-      "symbol": "NEXT"
-    },
-    {
-      "name": "Titcoin",
-      "symbol": "TIT"
-    },
-    {
-      "name": "Gleec Coin",
-      "symbol": "GLEEC"
-    },
-    {
-      "name": "Hathor",
-      "symbol": "HTR"
-    },
-    {
-      "name": "Long coin",
-      "symbol": "LONG"
-    },
-    {
-      "name": "Martkist",
-      "symbol": "MARTK"
-    },
-    {
-      "name": "Cheetahcoin",
-      "symbol": "CHTA"
-    },
-    {
-      "name": "Widecoin",
-      "symbol": "WCN"
-    },
-    {
-      "name": "Ergon",
-      "symbol": "XRG"
-    },
-    {
-      "name": "TDCoin",
-      "symbol": "TDC"
-    },
-    {
-      "name": "Polcoin",
-      "symbol": "PLC"
-    },
-    {
-      "name": "MicroVisionChain",
-      "symbol": "SPACE"
-    },
-    {
-      "name": "BitNet",
-      "symbol": "BIT"
-    },
-    {
-      "name": "Aurum Crypto Gold",
-      "symbol": "ACG"
-    },
-    {
-      "name": "Rebelcoin",
-      "symbol": "RBL"
-    },
-    {
-      "name": "ReversedBitcoin",
-      "symbol": "RVB"
-    },
-    {
-      "name": "Oggnalive",
-      "symbol": "OGG"
-    },
-    {
-      "name": "BitcoinPurple",
-      "symbol": "BTCP"
-    }
-    // Add more entries as needed
-  ]
+   "response_data":[
+      {
+         "name":"Bitcoin",
+         "symbol":"BTC"
+      },
+      {
+         "name":"Bitcoin Cash",
+         "symbol":"BCH"
+      },
+      {
+         "name":"Bitcoin SV",
+         "symbol":"BSV"
+      },
+      {
+         "name":"eCash",
+         "symbol":"XEC"
+      },
+      {
+         "name":"DigiByte",
+         "symbol":"DGB",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"Auroracoin",
+         "symbol":"AUR",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"Globaltoken",
+         "symbol":"GLT",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"Peercoin",
+         "symbol":"PPC"
+      },
+      {
+         "name":"Litecoin Cash",
+         "symbol":"LCC",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"Deutsche eMark",
+         "symbol":"DEM"
+      },
+      {
+         "name":"FreeCash",
+         "symbol":"FCH"
+      },
+      {
+         "name":"Susucoin",
+         "symbol":"SUSU"
+      },
+      {
+         "name":"DeVault",
+         "symbol":"DVT"
+      },
+      {
+         "name":"BitcoinVault",
+         "symbol":"BTCV"
+      },
+      {
+         "name":"FxTC",
+         "symbol":"FXTC",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"BADcoin",
+         "symbol":"BAD",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"Smileycoin",
+         "symbol":"SMLY",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"Veil",
+         "symbol":"VEIL",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"ButKoin",
+         "symbol":"BUTK",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"Bata",
+         "symbol":"BTA",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"BitMark",
+         "symbol":"MARKS",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"MazaCoin",
+         "symbol":"MAZA",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"DigitalCoin",
+         "symbol":"DGC",
+         "algorithm":"SHA-256",
+         "mineable":true
+      },
+      {
+         "name":"StrongHands",
+         "symbol":"SHND"
+      },
+      {
+         "name":"NEXT.Chain",
+         "symbol":"NEXT"
+      },
+      {
+         "name":"Titcoin",
+         "symbol":"TIT"
+      },
+      {
+         "name":"Gleec Coin",
+         "symbol":"GLEEC"
+      },
+      {
+         "name":"Hathor",
+         "symbol":"HTR"
+      },
+      {
+         "name":"Long coin",
+         "symbol":"LONG"
+      },
+      {
+         "name":"Martkist",
+         "symbol":"MARTK"
+      },
+      {
+         "name":"Cheetahcoin",
+         "symbol":"CHTA"
+      },
+      {
+         "name":"Widecoin",
+         "symbol":"WCN"
+      },
+      {
+         "name":"Ergon",
+         "symbol":"XRG"
+      },
+      {
+         "name":"TDCoin",
+         "symbol":"TDC"
+      },
+      {
+         "name":"Polcoin",
+         "symbol":"PLC"
+      },
+      {
+         "name":"MicroVisionChain",
+         "symbol":"SPACE"
+      },
+      {
+         "name":"BitNet",
+         "symbol":"BIT"
+      },
+      {
+         "name":"Aurum Crypto Gold",
+         "symbol":"ACG"
+      },
+      {
+         "name":"Rebelcoin",
+         "symbol":"RBL"
+      },
+      {
+         "name":"ReversedBitcoin",
+         "symbol":"RVB"
+      },
+      {
+         "name":"Oggnalive",
+         "symbol":"OGG"
+      },
+      {
+         "name":"BitcoinPurple",
+         "symbol":"BTCP"
+      }
+   ]
 }
